@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luiz Paulo Fichtner (@lpfichtner), PhD in Financial Economics
-- 👀 I’m interested in ...
+- 👀 I’m interested in NLPs, RNNs, Trading Strategies, end-to-end Trading pipelines
 - 🌱 I’m currently learning about NLP applications to trading strategies
 - 💞️ I’m looking to collaborate on ML projects and trading strategy pipelies
 - 📫 How to reach me: ...
